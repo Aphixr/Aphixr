@@ -8,11 +8,6 @@
  - 🌱 Currently learning C++ and OpenGL
  - 📘 Interested in learning C#, Dart, Java, or C someday
 
-### Other info
-
- - 🎵 Likes piano
- - 💻 Website [here](https://aphixr.github.io)
-
 
 
 
