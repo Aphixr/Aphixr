@@ -1,9 +1,5 @@
-## languages
+## Languages
 
-```markdown
- - HTML/CSS
- - JavaScript
- - C++
-```
+HTML, CSS, JavaScript, TypeScript, C++
 
 
